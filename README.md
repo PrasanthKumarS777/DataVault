@@ -758,13 +758,7 @@ No warranty provided
 See LICENSE file for full details.
 
 👨‍💻 Author
-Pankaj Kumar Sahu
-
-📍 Location: Bhubaneswar, Odisha, India
-
-🎓 UPSC Aspirant | Anthropology Optional
-
-💼 Full-Stack Developer
+Prasanth Kumar Sahu
 
 🐙 GitHub: @PrasanthKumarS777
 

@@ -1,18 +1,30 @@
-# 🚀 DataVault - Next-Gen Data Management Platform
-
 <div align="center">
 
-![DataVault Logo](https://img.shields.io/badge/DataVault-Next--Gen-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzAwMDAwMCIvPjwvc3ZnPg==)
+# 🚀 DataVault
 
-**A modern, futuristic full-stack data management platform with stunning aurora animations, real-time analytics, and seamless CSV data handling.**
+### Next-Generation Data Management Platform
+
+<br/>
+
+![DataVault](https://img.shields.io/badge/DataVault-v1.0.0-00FFFF?style=for-the-badge&labelColor=000000)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-%3E%3D16.0.0-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<br/>
 
 [![GitHub Stars](https://img.shields.io/github/stars/PrasanthKumarS777/datavault?style=social)](https://github.com/PrasanthKumarS777/datavault/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/PrasanthKumarS777/datavault?style=social)](https://github.com/PrasanthKumarS777/datavault/network/members)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/react-18.0-61DAFB?logo=react)](https://reactjs.org/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/PrasanthKumarS777/datavault)](https://github.com/PrasanthKumarS777/datavault/commits)
 
-[Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation) • [Usage](#-usage) • [API](#-api-documentation) • [Contributing](#-contributing)
+<br/>
+
+> A modern, futuristic full-stack data management platform featuring aurora animations,  
+> real-time analytics, and seamless CSV data handling.
+
+<br/>
+
+[✨ Features](#-features) &nbsp;•&nbsp; [🖥️ Tech Stack](#️-tech-stack) &nbsp;•&nbsp; [🚀 Installation](#-installation) &nbsp;•&nbsp; [📖 Usage](#-usage-guide) &nbsp;•&nbsp; [📡 API Docs](#-api-documentation) &nbsp;•&nbsp; [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -20,197 +32,170 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#️-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Running the Application](#-running-the-application)
-- [Usage Guide](#-usage-guide)
-- [API Documentation](#-api-documentation)
-- [Development Journey](#-development-journey)
-- [Color Palette](#-color-palette)
-- [Performance Optimizations](#-performance-optimizations)
-- [Roadmap](#️-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
-- [Acknowledgments](#-acknowledgments)
+- [🌟 Overview](#-overview)
+- [✨ Features](#-features)
+- [🖥️ Tech Stack](#️-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Installation](#-installation)
+- [🏃 Running the Application](#-running-the-application)
+- [📖 Usage Guide](#-usage-guide)
+- [📡 API Documentation](#-api-documentation)
+- [🎨 Color Palette](#-color-palette)
+- [⚡ Performance Optimizations](#-performance-optimizations)
+- [🗺️ Roadmap](#️-roadmap)
+- [🤝 Contributing](#-contributing)
+- [📝 License](#-license)
+- [👨‍💻 Author](#-author)
 
 ---
 
 ## 🌟 Overview
 
-**DataVault** is a cutting-edge data management platform built with a focus on user experience, performance, and visual appeal. It combines powerful data handling capabilities with a stunning visual design featuring animated aurora backgrounds and a sleek glass-morphism UI.
+**DataVault** is a cutting-edge, full-stack data management platform built with a focus on user experience, performance, and visual appeal. It combines powerful data handling capabilities with a stunning visual design featuring animated aurora backgrounds and a sleek glass-morphism UI.
 
-### Key Highlights
+<br/>
 
-- 🎨 **Stunning Visual Design** - Cyan/teal aurora animations on pure black background
-- 🔐 **Secure Authentication** - Protected routes with session management
-- 📊 **Real-time Analytics** - Interactive charts and live data updates
-- ⚡ **Blazing Fast** - Optimized animations and efficient data processing
-- 🎲 **3D Elements** - Animated puzzle cube on login page
-- 📱 **Responsive Design** - Works seamlessly on all devices
+<div align="center">
+
+| 🎨 Stunning UI | 🔐 Secure Auth | 📊 Real-time Analytics | ⚡ Blazing Fast |
+|:-:|:-:|:-:|:-:|
+| Cyan/teal aurora animations on pure black | Protected routes & session management | Interactive charts & live updates | Optimized animations & efficient processing |
+
+</div>
 
 ---
 
 ## ✨ Features
 
-### 🎨 Beautiful UI/UX
-- **Aurora Background Animations**
-  - Flowing cyan/teal northern lights effect
-  - Smooth transitions and wave-like motion
-  - Optimized for performance with reduced blur
-  - Pure black background (#000000)
+<details>
+<summary><b>🎨 Beautiful UI/UX</b></summary>
+<br/>
 
-- **Glass-morphism Design**
-  - Transparent cards with backdrop blur
-  - Gradient borders and shadows
-  - Modern dark theme aesthetic
+- **Aurora Background Animations** — Flowing cyan/teal northern lights effect with smooth transitions, wave-like motion, and a pure black (#000000) backdrop
+- **Glass-morphism Design** — Transparent cards with backdrop blur, gradient borders, and modern dark-theme aesthetics
+- **3D Rolling Cube** — Animated puzzle cube on the login page with unique geometric patterns on each face and smooth rotation effects
 
-- **3D Rolling Cube**
-  - Animated puzzle cube on login page
-  - Unique geometric patterns on each face
-  - Smooth rotation and floating effects
+</details>
 
-### 🔐 Authentication & Security
-- **Login System**
-  - Email/password authentication
-  - Demo login for quick access
-  - Session persistence with localStorage
-  - Protected routes (cannot access dashboard without login)
-  - Auto-redirect to login if not authenticated
-  - Logout functionality with session cleanup
+<details>
+<summary><b>🔐 Authentication & Security</b></summary>
+<br/>
 
-### 📊 Data Management
-- **CSV File Upload**
-  - Drag-and-drop interface
-  - Real-time parsing and validation
-  - Support for large files
-  - Progress indicators
+- Email/password authentication with demo login for quick access
+- Session persistence via `localStorage`
+- Protected routes — dashboard inaccessible without login
+- Auto-redirect to login when unauthenticated
+- Clean logout with full session cleanup
 
-- **Data Table**
-  - Sortable columns (click headers to sort)
-  - Row selection (individual and bulk select)
-  - Search and filter functionality
-  - Pagination support
-  - Delete operations (single and bulk)
+</details>
 
-- **Export Functionality**
-  - Export all data or selected rows
-  - CSV format with proper formatting
-  - Download with custom filename
+<details>
+<summary><b>📊 Data Management</b></summary>
+<br/>
 
-### 📈 Analytics Dashboard
-- **Visual Data Insights**
-  - Line charts for upload trends (6-month view)
-  - Bar charts for storage usage
-  - Pie charts for data type distribution
-  - Activity timeline with recent events
+- **CSV Upload** — Drag-and-drop interface with real-time parsing, validation, and progress indicators
+- **Data Table** — Sortable columns, row selection (individual & bulk), search/filter, pagination, and delete operations
+- **Export** — Export all or selected rows as a CSV with a custom filename
 
-- **Real-time Stats**
-  - Total records count
-  - Data size calculation
-  - Last updated timestamp
-  - API connection status
+</details>
 
-### ⚡ Performance Features
-- **Auto-refresh**
-  - Configurable 30-second intervals
-  - Toggle on/off functionality
-  - Visual countdown timer
-  - Manual refresh button
+<details>
+<summary><b>📈 Analytics Dashboard</b></summary>
+<br/>
 
-- **Optimizations**
-  - Reduced blur complexity for faster rendering
-  - Lazy loading of components
-  - Efficient state management
-  - Minimal re-renders
+- Line charts for upload trends (6-month view)
+- Bar charts for storage usage
+- Pie charts for data type distribution
+- Activity timeline with recent events
+- Real-time stats: total records, data size, last updated, API status
 
-### 🛠️ Additional Features
-- **Calendar Integration** - Date picker and scheduling
-- **Notifications Panel** - Real-time alerts and messages
-- **User Profile Menu** - Account settings and logout
-- **Theme Toggle** - Switch between light/dark modes
-- **Responsive Sidebar** - Collapsible navigation menu
+</details>
+
+<details>
+<summary><b>⚡ Performance & Additional Features</b></summary>
+<br/>
+
+- **Auto-refresh** — Configurable 30-second intervals with visual countdown and manual refresh option
+- **Calendar Integration** — Date picker and scheduling support
+- **Notifications Panel** — Real-time alerts and messages
+- **Theme Toggle** — Switch between light/dark modes
+- **Responsive Sidebar** — Collapsible navigation menu
+
+</details>
 
 ---
 
 ## 🖥️ Tech Stack
 
+<div align="center">
+
 ### Frontend
+
 | Technology | Version | Purpose |
-|------------|---------|---------|
-| **React** | 18.3.1 | UI Framework |
-| **Vite** | 5.4.2 | Build Tool & Dev Server |
-| **React Router** | 6.26.1 | Client-side Routing |
-| **Recharts** | 2.12.7 | Data Visualization |
-| **React Hot Toast** | 2.4.1 | Toast Notifications |
-| **Axios** | 1.7.7 | HTTP Client |
-| **CSS3** | - | Styling & Animations |
+|:----------:|:-------:|:-------:|
+| ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=black) | 18.3.1 | UI Framework |
+| ![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?logo=vite&logoColor=white) | 5.4.2 | Build Tool & Dev Server |
+| ![React Router](https://img.shields.io/badge/React_Router-6.26.1-CA4245?logo=react-router&logoColor=white) | 6.26.1 | Client-side Routing |
+| ![Recharts](https://img.shields.io/badge/Recharts-2.12.7-22B5BF) | 2.12.7 | Data Visualization |
+| ![Axios](https://img.shields.io/badge/Axios-1.7.7-5A29E4?logo=axios&logoColor=white) | 1.7.7 | HTTP Client |
 
 ### Backend
+
 | Technology | Version | Purpose |
-|------------|---------|---------|
-| **Node.js** | ≥16.0.0 | Runtime Environment |
-| **Express.js** | 4.19.2 | Web Framework |
-| **Multer** | 1.4.5-lts.1 | File Upload Handling |
-| **CSV Parser** | 3.0.0 | CSV File Parsing |
-| **CORS** | 2.8.5 | Cross-Origin Resource Sharing |
+|:----------:|:-------:|:-------:|
+| ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D16.0.0-339933?logo=node.js&logoColor=white) | ≥16.0.0 | Runtime Environment |
+| ![Express](https://img.shields.io/badge/Express-4.19.2-000000?logo=express&logoColor=white) | 4.19.2 | Web Framework |
+| ![Multer](https://img.shields.io/badge/Multer-1.4.5-orange) | 1.4.5 | File Upload Handling |
+| ![CSV Parser](https://img.shields.io/badge/CSV_Parser-3.0.0-green) | 3.0.0 | CSV File Parsing |
+| ![CORS](https://img.shields.io/badge/CORS-2.8.5-blue) | 2.8.5 | Cross-Origin Resource Sharing |
+
+</div>
 
 ---
 
 ## 📁 Project Structure
 
+```
 datavault/
 │
-├── datavault-frontend/ # React Frontend Application
-│ ├── public/ # Static Assets
-│ ├── src/
-│ │ ├── components/ # Reusable Components
-│ │ │ ├── AuroraBackground.jsx # Aurora animation component
-│ │ │ ├── AuroraBackground.css # Aurora styles
-│ │ │ ├── RollingCube.jsx # 3D cube component
-│ │ │ ├── RollingCube.css # Cube animations
-│ │ │ ├── Sidebar.jsx # Navigation sidebar
-│ │ │ ├── DataTable.jsx # Data table with sorting
-│ │ │ ├── NotificationPanel.jsx # Notification dropdown
-│ │ │ ├── CalendarModal.jsx # Calendar popup
-│ │ │ └── ProfileMenu.jsx # User profile menu
-│ │ │
-│ │ ├── pages/ # Page Components
-│ │ │ ├── Login.jsx # Login page with cube
-│ │ │ ├── Dashboard.jsx # Main dashboard
-│ │ │ ├── Analytics.jsx # Analytics page
-│ │ │ └── Settings.jsx # Settings page
-│ │ │
-│ │ ├── context/ # React Context Providers
-│ │ │ ├── AuthContext.jsx # Authentication state
-│ │ │ └── ThemeContext.jsx # Theme management
-│ │ │
-│ │ ├── utils/ # Utility Functions
-│ │ │ ├── api.js # API calls (fetch, search, upload)
-│ │ │ └── exportCSV.js # CSV export functionality
-│ │ │
-│ │ ├── App.jsx # Main App Component
-│ │ ├── App.css # Global Styles
-│ │ └── main.jsx # React Entry Point
-│ │
-│ ├── .gitignore # Git ignore rules
-│ ├── package.json # Frontend dependencies
-│ ├── vite.config.js # Vite configuration
-│ └── index.html # HTML template
+├── 📂 datavault-frontend/          # React Frontend Application
+│   ├── public/                     # Static Assets
+│   └── src/
+│       ├── 📂 components/          # Reusable Components
+│       │   ├── AuroraBackground.jsx
+│       │   ├── RollingCube.jsx
+│       │   ├── Sidebar.jsx
+│       │   ├── DataTable.jsx
+│       │   ├── NotificationPanel.jsx
+│       │   ├── CalendarModal.jsx
+│       │   └── ProfileMenu.jsx
+│       │
+│       ├── 📂 pages/               # Page Components
+│       │   ├── Login.jsx
+│       │   ├── Dashboard.jsx
+│       │   ├── Analytics.jsx
+│       │   └── Settings.jsx
+│       │
+│       ├── 📂 context/             # React Context Providers
+│       │   ├── AuthContext.jsx
+│       │   └── ThemeContext.jsx
+│       │
+│       ├── 📂 utils/               # Utility Functions
+│       │   ├── api.js
+│       │   └── exportCSV.js
+│       │
+│       ├── App.jsx
+│       ├── App.css
+│       └── main.jsx
 │
-├── datavault-backend/ # Express Backend Server
-│ ├── server.js # Main server file
-│ ├── data.json # Data storage (gitignored)
-│ ├── .gitignore # Git ignore rules
-│ └── package.json # Backend dependencies
+├── 📂 datavault-backend/           # Express Backend Server
+│   ├── server.js
+│   ├── data.json                   # Data storage (gitignored)
+│   └── package.json
 │
-├── README.md # This file
-└── LICENSE # MIT License
-
-text
+├── README.md
+└── LICENSE
+```
 
 ---
 
@@ -218,611 +203,341 @@ text
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed:
+Ensure the following are installed before proceeding:
 
-- **Node.js** (v16.0.0 or higher) - [Download](https://nodejs.org/)
-- **npm** (comes with Node.js) or **yarn**
-- **Git** - [Download](https://git-scm.com/)
+- **[Node.js](https://nodejs.org/)** v16.0.0 or higher
+- **npm** (bundled with Node.js) or **yarn**
+- **[Git](https://git-scm.com/)**
 - A modern web browser (Chrome, Firefox, Edge, Safari)
 
-### Step-by-Step Installation
+### Step-by-Step Setup
 
-#### 1. Clone the Repository
+**1. Clone the Repository**
 
 ```bash
 git clone https://github.com/PrasanthKumarS777/datavault.git
 cd datavault
-2. Install Frontend Dependencies
-bash
+```
+
+**2. Install Frontend Dependencies**
+
+```bash
 cd datavault-frontend
 npm install
-Installed packages:
+```
 
-react, react-dom
+**3. Install Backend Dependencies**
 
-react-router-dom
-
-recharts
-
-react-hot-toast
-
-axios
-
-vite
-
-3. Install Backend Dependencies
-bash
+```bash
 cd ../datavault-backend
 npm install
-Installed packages:
+```
 
-express
+---
 
-multer
+## 🏃 Running the Application
 
-csv-parser
+### Option 1 — Manual (Two Terminals)
 
-cors
+**Terminal 1 — Start Backend**
 
-body-parser
-
-🏃 Running the Application
-Option 1: Run Both Servers Manually
-Terminal 1: Start Backend Server
-bash
+```bash
 cd datavault-backend
 npm start
-Expected Output:
+```
 
-text
+```
 ╔════════════════════════════════════════╗
-║   DataVault Backend Server Running    ║
+║    DataVault Backend Server Running   ║
 ║                                        ║
-║   🚀 Port: 8080                         ║
-║   🌐 URL: http://localhost:8080       ║
+║   🚀 Port: 8080                        ║
+║   🌐 URL: http://localhost:8080        ║
 ║                                        ║
 ║   Endpoints:                           ║
 ║   → POST /upload                       ║
 ║   → GET  /data                         ║
 ║   → GET  /search?query=keyword         ║
 ╚════════════════════════════════════════╝
-Backend is now running on: http://localhost:8080
+```
 
-Terminal 2: Start Frontend Development Server
-bash
+**Terminal 2 — Start Frontend**
+
+```bash
 cd datavault-frontend
 npm run dev
-Expected Output:
+```
 
-text
+```
   VITE v5.4.2  ready in 500 ms
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
-  ➜  press h + enter to show help
-Frontend is now running on: http://localhost:5173
+```
 
-Option 2: One-Click Startup (Windows)
-Create start.bat in project root:
+### Option 2 — One-Click (Windows)
 
-text
+Create `start.bat` in the project root:
+
+```bat
 @echo off
 start cmd /k "cd datavault-backend && npm start"
 timeout /t 3
 start cmd /k "cd datavault-frontend && npm run dev"
 start http://localhost:5173
-Run: Double-click start.bat
+```
 
-Option 3: One-Click Startup (Mac/Linux)
-Create start.sh in project root:
+### Option 3 — One-Click (Mac/Linux)
 
-bash
+Create `start.sh` in the project root:
+
+```bash
 #!/bin/bash
 cd datavault-backend && npm start &
 sleep 3
 cd datavault-frontend && npm run dev &
 sleep 3
 open http://localhost:5173
-Make executable and run:
+```
 
-bash
-chmod +x start.sh
-./start.sh
-📖 Usage Guide
-First Time Login
-Open Browser: Navigate to http://localhost:5173
+```bash
+chmod +x start.sh && ./start.sh
+```
 
-Login Page:
+---
 
-You'll see a stunning aurora background with a rolling 3D cube
+## 📖 Usage Guide
 
-Option A: Enter any email and password, then click "🚀 Sign In"
+### 🔐 Login
 
-Option B: Click "⚡ Quick Demo Login" for instant access
+Navigate to `http://localhost:5173`. You'll see the aurora background with a 3D rolling cube.
 
-Welcome Screen:
+- **Option A** — Enter any email & password, then click **Sign In**
+- **Option B** — Click **⚡ Quick Demo Login** for instant access
 
-After login, you're redirected to the dashboard
+### 📁 Uploading Data
 
-You'll see stats, upload section, and data table
+1. Go to the **Upload** section on the Dashboard
+2. Drag-and-drop or click to select a `.csv` file
+3. Wait for the success toast — data appears in the table instantly
 
-Uploading Data
-Navigate to Upload Section on Dashboard
-
-Click "Choose File" or drag-and-drop a CSV file
-
-Wait for upload - you'll see a loading toast
-
-Success! - Data appears in the table below
-
-Supported Format:
-
-CSV files with headers
-
-Example:
-
-text
+Supported CSV format:
+```
 id,name,email,age
 1,John Doe,john@example.com,30
 2,Jane Smith,jane@example.com,25
-Searching Data
-Enter keyword in the search box
+```
 
-Press Enter or click "Search"
+### 🔍 Search, Sort & Filter
 
-View filtered results in the table
+- **Search** — Type a keyword in the search box and press Enter; click **Reset** to clear
+- **Sort** — Click any column header to sort; click again to reverse
+- **Filter** — Use the built-in filter controls above the table
 
-Click "Reset" to show all data
+### ☑️ Select, Delete & Export
 
-Sorting Data
-Click any column header to sort
+- Check individual row checkboxes or click **Select All**
+- Click **🗑️ Delete (X)** to remove selected rows
+- Click **📥 Export** to download as `datavault_export.csv`
 
-Click again to reverse sort order
+### 📊 Analytics
 
-Visual indicator shows current sort direction
+Click **Analytics** in the sidebar to view upload trends, storage usage, data type distribution, and activity timeline.
 
-Selecting and Deleting Rows
-Select rows: Click checkboxes on left of each row
+### 🔄 Auto-Refresh
 
-Select all: Click "☑ Select All" button
+Auto-refresh is enabled by default (every 30 seconds). Toggle it with the 🔄 button in the header or click **Refresh Now** for an immediate update.
 
-Delete selected: Click "🗑️ Delete (X)" button
+---
 
-Single delete: Click delete button in each row
+## 📡 API Documentation
 
-Exporting Data
-Select specific rows (optional) - or export all
+**Base URL:** `http://localhost:8080`
 
-Click "📥 Export" button
+### `POST /upload` — Upload CSV File
 
-File downloads as datavault_export.csv
+| Parameter | Type | Description |
+|:---------:|:----:|:-----------:|
+| `file` | `multipart/form-data` | CSV file to upload |
 
-Viewing Analytics
-Click "Analytics" in sidebar
+```bash
+curl -X POST http://localhost:8080/upload -F "file=@data.csv"
+```
 
-View charts:
+```json
+{ "message": "File uploaded successfully", "count": 150 }
+```
 
-Upload trends over 6 months
+---
 
-Data type distribution
+### `GET /data` — Get All Data
 
-Storage usage by category
-
-Recent activity timeline
-
-Auto-Refresh
-Enabled by default - refreshes every 30 seconds
-
-Toggle: Click 🔄 button in header
-
-Manual refresh: Click "🔄 Refresh Now"
-
-Logging Out
-Click your avatar (PK) in top-right
-
-Click "🚪 Logout"
-
-Redirected to login page
-
-📡 API Documentation
-Base URL
-text
-http://localhost:8080
-Endpoints
-1. Upload CSV File
-POST /upload
-
-Uploads and parses a CSV file, storing data in data.json.
-
-Request:
-
-Method: POST
-
-Content-Type: multipart/form-data
-
-Body:
-
-text
-file: <CSV File>
-Response:
-
-json
-{
-  "message": "File uploaded successfully",
-  "count": 150
-}
-cURL Example:
-
-bash
-curl -X POST http://localhost:8080/upload \
-  -F "file=@data.csv"
-2. Get All Data
-GET /data
-
-Retrieves all stored data.
-
-Request:
-
-Method: GET
-
-Response:
-
-json
-[
-  {
-    "id": "1",
-    "name": "John Doe",
-    "email": "john@example.com",
-    "age": "30"
-  },
-  {
-    "id": "2",
-    "name": "Jane Smith",
-    "email": "jane@example.com",
-    "age": "25"
-  }
-]
-cURL Example:
-
-bash
+```bash
 curl http://localhost:8080/data
-3. Search Data
-GET /search?query={keyword}
+```
 
-Searches data by keyword across all fields.
-
-Request:
-
-Method: GET
-
-Query Params:
-
-query (required): Search term
-
-Response:
-
-json
+```json
 [
-  {
-    "id": "1",
-    "name": "John Doe",
-    "email": "john@example.com",
-    "age": "30"
-  }
+  { "id": "1", "name": "John Doe", "email": "john@example.com", "age": "30" },
+  { "id": "2", "name": "Jane Smith", "email": "jane@example.com", "age": "25" }
 ]
-cURL Example:
+```
 
-bash
+---
+
+### `GET /search?query={keyword}` — Search Data
+
+| Parameter | Type | Description |
+|:---------:|:----:|:-----------:|
+| `query` | `string` | Keyword to search across all fields |
+
+```bash
 curl "http://localhost:8080/search?query=john"
-🛠️ Development Journey
-Phase 1: Project Setup
-✅ Created React app with Vite
+```
 
-✅ Set up Express backend server
+```json
+[
+  { "id": "1", "name": "John Doe", "email": "john@example.com", "age": "30" }
+]
+```
 
-✅ Configured CORS for cross-origin requests
+---
 
-Phase 2: Backend Development
-✅ Implemented CSV upload endpoint with Multer
-
-✅ Added CSV parsing functionality
-
-✅ Created data storage with JSON file
-
-✅ Built search functionality
-
-✅ Added error handling
-
-Phase 3: Frontend Core
-✅ Set up React Router for navigation
-
-✅ Created authentication context
-
-✅ Built protected routes
-
-✅ Implemented login/logout system
-
-✅ Added session persistence
-
-Phase 4: UI Components
-✅ Designed Sidebar with active states
-
-✅ Built DataTable with sorting
-
-✅ Created ProfileMenu dropdown
-
-✅ Added NotificationPanel
-
-✅ Implemented CalendarModal
-
-Phase 5: Data Management
-✅ CSV file upload with drag-drop
-
-✅ Real-time data display
-
-✅ Search and filter functionality
-
-✅ Bulk operations (select/delete)
-
-✅ Export to CSV
-
-Phase 6: Visual Design
-✅ Created aurora background animations
-
-✅ Designed 3D rolling cube
-
-✅ Implemented glass-morphism UI
-
-✅ Added smooth transitions
-
-✅ Optimized animations for performance
-
-Phase 7: Analytics
-✅ Integrated Recharts library
-
-✅ Built line charts for trends
-
-✅ Created pie charts for distribution
-
-✅ Added bar charts for storage
-
-✅ Designed activity timeline
-
-Phase 8: Performance Optimization
-✅ Reduced blur complexity (120px → 80px)
-
-✅ Simplified animation keyframes
-
-✅ Optimized re-renders
-
-✅ Added auto-refresh with toggle
-
-✅ Improved loading states
-
-Phase 9: Git & Documentation
-✅ Created .gitignore files
-
-✅ Removed large build artifacts
-
-✅ Pushed to GitHub
-
-✅ Wrote comprehensive README
-
-🎨 Color Palette
-Color Name	Hex Code	RGB	Usage
-Pure Black	#000000	rgb(0, 0, 0)	Background
-Cyan	#00FFFF	rgb(0, 255, 255)	Primary Aurora
-Teal	#00E6E6	rgb(0, 230, 230)	Secondary Aurora
-Turquoise	#00DCDC	rgb(0, 220, 220)	Accent Aurora
-Dark Slate	#0F172A	rgb(15, 23, 42)	Cards & Containers
-Slate	#1E293B	rgb(30, 41, 59)	Secondary Containers
-Slate Border	#64748B	rgb(100, 116, 139)	Borders
-Light Slate	#94A3B8	rgb(148, 163, 184)	Secondary Text
-White	#F1F5F9	rgb(241, 245, 249)	Primary Text
-Success Green	#10B981	rgb(16, 185, 129)	Success States
-Error Red	#EF4444	rgb(239, 68, 68)	Error States
-⚡ Performance Optimizations
-Animation Optimizations
-Reduced Blur: Changed from 120px to 80px for faster rendering
-
-Simplified Keyframes: Removed complex transform chains
-
-Will-Change: Added will-change: transform for GPU acceleration
-
-Removed Pseudo-elements: Eliminated unnecessary ::before/::after effects
-
-React Optimizations
-Lazy Loading: Components loaded on-demand
-
-Memoization: Used React.memo for expensive components
-
-Debouncing: Search input debounced to reduce API calls
-
-Conditional Rendering: Aurora only renders when authenticated
-
-Backend Optimizations
-File Size Limits: Restricted upload size to prevent memory issues
-
-Efficient Parsing: Stream-based CSV parsing
-
-CORS Configuration: Optimized for specific origins
-
-🗺️ Roadmap
-Short Term (Q2 2026)
- Add more chart types (Scatter, Radar, Area)
-
- Implement data validation on upload
-
- Add bulk edit functionality
-
- Create user settings page
-
- Add export to PDF
-
-Medium Term (Q3 2026)
- Firebase Authentication integration
-
- MongoDB database connection
-
- Real-time WebSocket updates
-
- Advanced filtering with date ranges
-
- Email notifications
-
-Long Term (Q4 2026)
- Multi-user collaboration
-
- Role-based access control
-
- Mobile app (React Native)
-
- API rate limiting
-
- Comprehensive unit tests
-
- CI/CD pipeline
-
-🤝 Contributing
-Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated!
-
-How to Contribute
-Fork the Project
-
-bash
-# Click "Fork" button on GitHub
-Clone Your Fork
-
-bash
-git clone https://github.com/YOUR_USERNAME/datavault.git
-cd datavault
-Create a Feature Branch
-
-bash
-git checkout -b feature/AmazingFeature
-Make Your Changes
-
-Write clean, commented code
-
-Follow existing code style
-
-Test thoroughly
-
-Commit Your Changes
-
-bash
-git add .
-git commit -m "✨ Add some AmazingFeature"
-Push to Your Branch
-
-bash
-git push origin feature/AmazingFeature
-Open a Pull Request
-
-Go to original repository
-
-Click "New Pull Request"
-
-Describe your changes
-
-Contribution Guidelines
-Follow the existing code style
-
-Write meaningful commit messages (use emojis!)
-
-Update documentation for new features
-
-Test your changes thoroughly
-
-Be respectful and constructive
-
-📝 License
-This project is licensed under the MIT License.
-
-You are free to:
-
-✅ Use commercially
-
-✅ Modify
-
-✅ Distribute
-
-✅ Private use
-
-Conditions:
-
-Must include copyright notice and license
-
-No warranty provided
-
-See LICENSE file for full details.
-
-👨‍💻 Author
-Prasanth Kumar Sahu
-
-🐙 GitHub: @PrasanthKumarS777
-
-📧 Email: Contact via GitHub
-
-Skills Demonstrated
-React.js & Modern JavaScript
-
-Node.js & Express Backend
-
-UI/UX Design & CSS Animations
-
-RESTful API Development
-
-Git & Version Control
-
-Full-Stack Project Management
-
-🙏 Acknowledgments
-React Team - For the amazing React library
-
-Vite Team - For the lightning-fast build tool
-
-Recharts - For beautiful charting library
-
-Express.js - For the minimalist web framework
-
-Aurora Inspiration - Natural northern lights phenomena
-
-Design Inspiration - Modern glass-morphism trends
-
-Community - Stack Overflow, GitHub, Dev.to
-
-📞 Support
-Getting Help
-🐛 Found a bug? Open an issue
-
-💡 Have a feature request? Start a discussion
-
-📖 Need documentation? Check this README first
-
-💬 General questions? Open a GitHub discussion
-
-📊 Project Stats
-GitHub repo size
-GitHub language count
-GitHub top language
-GitHub last commit
+## 🎨 Color Palette
 
 <div align="center">
-⭐ Star this repository if you find it useful!
-Built with ❤️ and ☕ by Pankaj Kumar Sahu
+
+| Color | Hex | Usage |
+|:-----:|:---:|:-----:|
+| ![#000000](https://via.placeholder.com/16/000000/000000?text=+) Pure Black | `#000000` | Background |
+| ![#00FFFF](https://via.placeholder.com/16/00FFFF/00FFFF?text=+) Cyan | `#00FFFF` | Primary Aurora |
+| ![#00E6E6](https://via.placeholder.com/16/00E6E6/00E6E6?text=+) Teal | `#00E6E6` | Secondary Aurora |
+| ![#00DCDC](https://via.placeholder.com/16/00DCDC/00DCDC?text=+) Turquoise | `#00DCDC` | Accent Aurora |
+| ![#0F172A](https://via.placeholder.com/16/0F172A/0F172A?text=+) Dark Slate | `#0F172A` | Cards & Containers |
+| ![#1E293B](https://via.placeholder.com/16/1E293B/1E293B?text=+) Slate | `#1E293B` | Secondary Containers |
+| ![#F1F5F9](https://via.placeholder.com/16/F1F5F9/F1F5F9?text=+) White | `#F1F5F9` | Primary Text |
+| ![#10B981](https://via.placeholder.com/16/10B981/10B981?text=+) Success Green | `#10B981` | Success States |
+| ![#EF4444](https://via.placeholder.com/16/EF4444/EF4444?text=+) Error Red | `#EF4444` | Error States |
 
 </div>
-🔖 Version History
-v1.0.0 (February 2026)
-🎉 Initial release
 
-✨ Aurora background animations
+---
 
-🔐 Authentication system
+## ⚡ Performance Optimizations
 
-📊 Analytics dashboard
+**Animation Optimizations**
+- Reduced blur radius from `120px` → `80px` for faster GPU rendering
+- Simplified keyframe chains to reduce paint cost
+- Added `will-change: transform` for hardware acceleration
+- Eliminated unnecessary `::before` / `::after` pseudo-elements
 
-📁 CSV data management
+**React Optimizations**
+- Lazy loading of page-level components
+- `React.memo` applied to expensive render paths
+- Debounced search input to reduce API call frequency
+- Aurora component conditionally rendered only when authenticated
 
-🎲 3D rolling cube login page
+**Backend Optimizations**
+- File size limits to prevent memory overload
+- Stream-based CSV parsing for large files
+- CORS configured for specific allowed origins
+
+---
+
+## 🗺️ Roadmap
+
+| Timeline | Milestone |
+|:--------:|:---------:|
+| **Q2 2026** | More chart types · Data validation · Bulk edit · PDF export |
+| **Q3 2026** | Firebase Auth · MongoDB · WebSocket updates · Email notifications |
+| **Q4 2026** | Multi-user collaboration · RBAC · React Native app · CI/CD pipeline |
+
+---
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community an amazing place to learn and grow. Any contribution you make is **greatly appreciated**!
+
+```bash
+# 1. Fork the Project (click "Fork" on GitHub)
+
+# 2. Clone your fork
+git clone https://github.com/YOUR_USERNAME/datavault.git
+
+# 3. Create your feature branch
+git checkout -b feature/AmazingFeature
+
+# 4. Commit your changes
+git add .
+git commit -m "✨ Add AmazingFeature"
+
+# 5. Push to your branch
+git push origin feature/AmazingFeature
+
+# 6. Open a Pull Request on GitHub
+```
+
+**Contribution Guidelines**
+- Follow the existing code style and naming conventions
+- Write meaningful, emoji-prefixed commit messages
+- Test your changes thoroughly before submitting a PR
+- Update documentation for any new features
+- Be respectful and constructive in all discussions
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for full details.
+
+```
+✅ Commercial use   ✅ Modification   ✅ Distribution   ✅ Private use
+⚠️  Must include copyright notice        ❌ No warranty provided
+```
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+**Prasanth Kumar Sahu**
+
+[![GitHub](https://img.shields.io/badge/GitHub-PrasanthKumarS777-181717?style=for-the-badge&logo=github)](https://github.com/PrasanthKumarS777)
+
+**Skills Demonstrated through this project:**
+
+`React.js` &nbsp; `Node.js & Express` &nbsp; `UI/UX Design & CSS Animations`  
+`RESTful API Development` &nbsp; `Git & Version Control` &nbsp; `Full-Stack Project Management`
+
+</div>
+
+---
+
+## 🙏 Acknowledgments
+
+- **[React Team](https://reactjs.org/)** — For the incredible UI library
+- **[Vite Team](https://vitejs.dev/)** — For the lightning-fast build tool
+- **[Recharts](https://recharts.org/)** — For the beautiful charting library
+- **[Express.js](https://expressjs.com/)** — For the minimalist web framework
+- **Aurora Inspiration** — The natural beauty of northern lights phenomena
+- **Community** — Stack Overflow, GitHub, Dev.to
+
+---
+
+<div align="center">
+
+### 🔖 Version History
+
+| Version | Date | Highlights |
+|:-------:|:----:|:----------:|
+| `v1.0.0` | February 2026 | Initial release — Aurora UI · Authentication · Analytics · CSV Management · 3D Cube |
+
+<br/>
+
+---
+
+**⭐ If you found this project helpful, please consider giving it a star!**
+
+*Built with ❤️ and ☕ by [Prasanth Kumar Sahu](https://github.com/PrasanthKumarS777)*
+
+</div>
